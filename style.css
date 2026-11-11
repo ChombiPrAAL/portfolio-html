@@ -1,4 +1,31 @@
-body{
-    background-image: url("evolution-of-lego-kk4bnony5zsr6ouk-3092791817.jpg");
-    color: white;
+body {
+  background-image: url("evolution-of-lego-kk4bnony5zsr6ouk-3092791817.jpg");
+  color: white;
+}
+
+.lien {
+  color: goldenrod;
+}
+.discord {
+  color: blue;
+}
+
+.Page{
+  color:crimson;
+}
+
+
+#steam {
+  color: blue;
+}
+
+#Spotify {
+  color: green;
+}
+
+#Twitch {
+  color: blueviolet;
+}
+#Github{
+  color:white;
 }
