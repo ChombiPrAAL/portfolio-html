@@ -7,13 +7,24 @@ body {
   color: goldenrod;
 }
 .discord {
-  color: blue;
+  color:#5763ee;
 }
 
 .Page{
   color:crimson;
 }
 
+.Parrainage{
+  color: aqua;
+}
+.Titre_h2{
+  color: brown;
+}
+
+
+#titre{
+  color:chartreuse;
+}
 
 #steam {
   color: blue;
