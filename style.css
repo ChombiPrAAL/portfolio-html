@@ -3,9 +3,11 @@ body {
   color: white;
 }
 
+/*Classe*/
 .lien {
   color: goldenrod;
 }
+
 .discord {
   color:#5763ee;
 }
@@ -21,8 +23,8 @@ body {
   color: brown;
 }
 
-
-#titre{
+/*Id*/
+#Pseudo{
   color:chartreuse;
 }
 
