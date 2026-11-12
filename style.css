@@ -1,5 +1,5 @@
 body {
-  background-image: url("evolution-of-lego-kk4bnony5zsr6ouk-3092791817.jpg");
+  background-image: url("images/evolution-of-lego-kk4bnony5zsr6ouk-3092791817.jpg");
   color: white;
 }
 
@@ -23,6 +23,13 @@ body {
   color: brown;
 }
 
+.titrePage{
+  color: darkorange;
+}
+
+.lienProgC{
+  color:powderblue;
+}
 /*Id*/
 #Pseudo{
   color:chartreuse;
